@@ -1,56 +1,67 @@
-# 👋 Hi, I'm Muhammad Farhan
-### Principal Full-Stack Engineer | Technical Lead
+👋 Hi, I’m Muhammad Farhan
 
-🚀 6+ years of experience architecting and deploying enterprise-grade web and AI applications using **Next.js · Django · Node.js · React** across **PostgreSQL / MongoDB** stacks.
+Principal Full-Stack Engineer | Technical Lead
+🚀 6+ years of experience architecting, scaling, and deploying enterprise-grade Web, AI, and 3D/AR applications.
 
-💡 I specialize in:
-- Multi-tenant SaaS architecture & DevOps (Docker · CI/CD · Nginx · AWS S3)
-- Data-driven dashboards, RAG AI agents, and 3D/AR experiences
-- Leading engineering teams, mentoring developers, and managing client delivery
+I help startups and digital enterprises who struggle with fragmented systems and slow delivery transform their ideas into production-ready, scalable SaaS products — combining solid engineering, clean architecture, and real-world impact.
 
----
+💡 What I Do Best
 
-### 🧠 Core Stack
-| Frontend | Backend | Database | DevOps | Tools |
-|-----------|----------|-----------|---------|--------|
-| React · Next.js · Tailwind | Node.js · Express · Django · NestJS | PostgreSQL · MongoDB | Docker · CI/CD · Nginx · Linux Servers | Git · Bitbucket · Jira · SonarCloud |
+🧱 Multi-tenant SaaS Architecture — modular systems with role-based access and data isolation
 
----
+🤖 AI & RAG Systems — intelligent agents, vector search, and feedback-driven analytics
 
-### 🧩 Featured Projects
+🧩 3D / AR Experiences — WebXR viewers, asset pipelines, and QR-based product previews
 
-#### 🧠 [Federation AI](https://github.com/mohammad-farhan/federation-ai)
-Enterprise AI ecosystem supporting Generative AI, RAG, and Agentic Workflows.  
-- Intelligent agents for document Q&A and form automation  
-- Multi-tenant RAG search framework with feedback analytics  
-- Deployed with Docker + CI/CD for scalable enterprise use  
+⚙️ DevOps & Automation — Docker, CI/CD, Nginx, AWS S3, and scalable cloud deployments
 
-#### 🕹️ [Mainstay Digital](https://github.com/mohammad-farhan/mainstay-digital)
-Immersive 3D AR viewer with WebXR integration.  
-- Automated gallery generation via Blender Python scripts  
-- Multi-tenant SaaS with AWS S3 & role-based permissions  
-- QR code distribution and public AR preview pages  
+👥 Team Leadership — mentoring engineers, reviewing code, and aligning delivery with product goals
 
-#### 💹 [PooStock](https://github.com/mohammad-farhan/poostock)
-Next.js + GraphQL social platform for stock insights.  
-- Real-time feeds with Pusher.js and Redux Toolkit  
-- Clean modular architecture and interactive UX  
+🧠 Core Tech Stack
+Frontend	Backend	Database	DevOps	Tools
+React · Next.js · Tailwind	Node.js · Django · NestJS	PostgreSQL · MongoDB	Docker · CI/CD · Nginx · AWS	Git · Bitbucket · Jira · SonarCloud
+🚀 Featured Projects
+🧠 Federation AI
 
-#### 💰 [Price Transparency](https://github.com/mohammad-farhan/price-transparency)
-Full-stack web app comparing medical procedure prices across locations.  
-- Mapbox integration for location-based visualization  
-- Optimized filtering and rendering for large datasets  
+Enterprise AI Ecosystem supporting Generative AI, RAG, and agentic workflows.
 
----
+Intelligent agents for document Q&A and form automation
 
-### 📊 Previous Experience
-- **Principal Engineer @ TransData** — 2022-Present  
-- **Full-Stack Engineer @ CloudMedx** — 2020-2022  
-- **Frontend Developer @ Hayaat.pk** — 2019-2020  
+Multi-tenant RAG framework with feedback analytics
 
----
+Deployed using Docker + CI/CD for seamless enterprise scaling
 
-### 🌐 Connect With Me
-📧 **farhanjaved269@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/mohammad-farhan-49a928196/)  
-🧰 [GitHub](https://github.com/mohammad-farhan)
+🕹️ Mainstay Digital
+
+Immersive 3D/AR Viewer built with WebXR and Blender automation.
+
+Automated gallery generation via Blender Python scripts
+
+Multi-tenant SaaS setup with AWS S3 storage
+
+Custom QR code distribution and public AR previews
+
+💹 PooStock
+
+Social Platform for Stock Insights built on Next.js + GraphQL.
+
+Real-time updates with Pusher.js and Redux Toolkit
+
+Modular, reusable architecture for maintainability
+
+💰 Price Transparency
+
+Healthcare Web App comparing medical procedure costs across locations.
+
+Integrated Mapbox for dynamic geovisualization
+
+Optimized rendering for large dataset performance
+
+🧭 Experience
+
+Principal Engineer @ TransData
+ — 2022–Present
+
+Full-Stack Engineer @ CloudMedx — 2020–2022
+
+Frontend Developer @ Hayaat.pk — 2019–2020
